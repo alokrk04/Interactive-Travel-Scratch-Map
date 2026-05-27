@@ -170,6 +170,4 @@ For support, bug reports, or feature requests, please [open an issue](https://gi
 
 **Happy Travels!** 🗺️✈️🌍
 
-*Track your adventures, celebrate your journeys, and plan your next destination with the Interactive Travel Scratch Map.*
-
-##########################################################################
+*Track your adventures, celebrate your journeys, and plan your next destination with the Interactive Travel Scratch Map.
